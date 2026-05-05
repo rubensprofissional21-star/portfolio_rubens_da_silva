@@ -1,58 +1,129 @@
-# Rubens da silva
-> Estudante de - Ciência da Computação
- 
+# 🎲 AI Dungeon Meet  
+_Plataforma de RPG de mesa online com mestre automatizado e videoconferência integrada_
+
 ---
- 
-### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-da-silva-70aa11387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubens.profissional21@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
- 
+
+## 📌 Descrição do Projeto
+
+O **AI Dungeon Meet** é um aplicativo Android que integra Inteligência Artificial generativa com videoconferência em tempo real para criar uma experiência imersiva de RPG de mesa online.
+
+Diferente de plataformas tradicionais, o aplicativo utiliza um **Mestre de RPG controlado por IA** para conduzir a narrativa, gerar eventos dinâmicos e adaptar a história em tempo real com base nas decisões dos jogadores.
+
+O projeto resolve o problema de **falta de mestres disponíveis** e **dificuldade de organização de sessões**, permitindo que qualquer grupo jogue RPG a qualquer momento.
+
 ---
- 
-### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Ciências da computação na Univercidade da cidade de São paulo - UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Análise de Dados.
- 
-* **Habilidades Técnicas:** HTML5, CSS3, JavaScript.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, resolução de problemas e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
- 
+
+## 🚀 Funcionalidades
+
+### 🎥 Videoconferência
+- Criação e entrada em salas usando o **Jitsi Meet**
+- Comunicação em tempo real (áudio e vídeo)
+- Integração direta no app
+
+### 🤖 Mestre de RPG com IA
+- Geração de narrativa em tempo real
+- Adaptação dinâmica da história
+- Interpretação das ações dos jogadores
+
+### 🧙 Geração Procedural
+- NPCs com nome, personalidade e história
+- Quests com objetivos, conflitos e recompensas
+- Eventos dinâmicos
+
+### 💬 Interface Interativa
+- Chat para interação com a IA
+- Feed de narrativa em tempo real
+- Sistema de escolhas
+
+### 🏰 Sistema de Salas
+- Criação de sessões temáticas
+- Entrada por código
+
 ---
- 
-### 🛠 Minhas Ferramentas Favoritas
- 
-#### 💻 Linguagens e Tecnologias
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
- 
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-#### 🤖 Inteligência Artificial & Ciência de Dados
- 
+
+## 🛠️ Tecnologias Utilizadas
+
+- Kotlin  
+- Android SDK  
+- MVVM  
+- StateFlow / LiveData  
+- Jitsi Meet SDK  
+- Manus AI  
+- Material Design 3  
+
 ---
- 
-### 📂 Portfólio de Projetos
- 
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Batalha de dados** | comparação de desempenho entre IAs. | [Ver Projeto](https://github.com/rubensprofissional21-star/projeto-batalha_de_modelos-estetica_automotiva) |
- 
+
+## 🧠 Uso da Manus AI
+
+- Estruturação do projeto  
+- Geração de código  
+- Organização de arquitetura  
+- Sugestões de boas práticas  
+
 ---
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+
+## 📲 Instalação
+
+```bash
+git clone https://github.com/seu-usuario/ai-dungeon-meet.git
+```
+
+Abra no Android Studio e execute.
+
+---
+
+## 🔗 Pré-visualização
+
+https://preview.manus.ai/ai-dungeon-meet
+
+---
+
+## 📦 APK
+
+https://github.com/seu-usuario/ai-dungeon-meet/releases
+
+---
+
+## 📱 QR Code
+
+(Adicionar imagem aqui)
+
+---
+
+## 🧩 Estrutura
+
+```
+📦 ai-dungeon-meet
+ ┣ data
+ ┣ domain
+ ┣ ui
+ ┣ di
+ ┗ MainActivity.kt
+```
+
+---
+
+## 🎮 Exemplo
+
+1. Criar sala  
+2. Entrar com amigos  
+3. IA inicia narrativa  
+4. Jogadores interagem  
+
+---
+
+## 🧪 Status
+
+Protótipo funcional
+
+---
+
+## 👨‍💻 Autor
+
+Seu Nome
+
+---
+
+## 📄 Licença
+
+Uso acadêmico
